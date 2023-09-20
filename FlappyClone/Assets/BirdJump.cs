@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BirdJump : MonoBehaviour //MonoBehaviour를 상속받음
 {
@@ -21,5 +22,14 @@ public class BirdJump : MonoBehaviour //MonoBehaviour를 상속받음
         {
             rb.velocity = Vector2.up * jumpPower; //(0,1*jumpPower), Vector2.up: (0,1)
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    { //collision끼리 부딪혔을 때
+        if (Score.score > Score.bestScore)
+        {
+            Score.bestScore = Score.score;
+        }
+        SceneManager.LoadScene("GameOverScene"); //GameOverScene으로 넘어감
     }
 }
