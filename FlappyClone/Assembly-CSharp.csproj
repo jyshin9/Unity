@@ -49,6 +49,7 @@
   <ItemGroup>
      <Compile Include="Assets\Replay.cs" />
      <Compile Include="Assets\Score.cs" />
+     <Compile Include="Assets\Fixed.cs" />
      <Compile Include="Assets\BirdJump.cs" />
      <Compile Include="Assets\BestScore.cs" />
      <Compile Include="Assets\ScoreUp.cs" />
