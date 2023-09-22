@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
-{
+{    
     //전역변수
     int health = 30;
     int level = 5;
