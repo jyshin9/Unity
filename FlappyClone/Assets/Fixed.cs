@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Fixed : MonoBehaviour
 {
-    void Start(){
-        Screen.SetResolution(1080, 1920, true);
-    }
     void Awake(){
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        Screen.SetResolution(1080, 1920, true);
+    }
+    void Start(){
         Screen.SetResolution(1080, 1920, true);
     }
 }
