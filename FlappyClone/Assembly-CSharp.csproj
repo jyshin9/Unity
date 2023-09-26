@@ -47,7 +47,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\SuperMode.cs" />
      <Compile Include="Assets\Replay.cs" />
+     <Compile Include="Assets\GameStart.cs" />
      <Compile Include="Assets\Score.cs" />
      <Compile Include="Assets\Fixed.cs" />
      <Compile Include="Assets\BirdJump.cs" />

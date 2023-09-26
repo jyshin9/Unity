@@ -21,7 +21,7 @@ public class MakePipe : MonoBehaviour
         if (timer > timediff)
         { // 1초가 지났을 때
             GameObject newpipe = Instantiate(pipe); //pipe를 찍어냄
-            newpipe.transform.position = new Vector3(5, Random.Range(-2.5f, 4.5f), 0); //y좌표 랜덤하게, 범위: -2.5 ~ 4.5
+            newpipe.transform.position = new Vector3(5, Random.Range(-2.5f, 4.5f), 0);
             timer = 0; //timer 초기화
             Destroy(newpipe, 5.0f); //생성했던 파이프 삭제-> 메모리 관리 가능
         }
