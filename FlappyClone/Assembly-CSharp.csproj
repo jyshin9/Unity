@@ -47,13 +47,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\SuperMode.cs" />
      <Compile Include="Assets\Replay.cs" />
      <Compile Include="Assets\GameStart.cs" />
      <Compile Include="Assets\Score.cs" />
      <Compile Include="Assets\Fixed.cs" />
      <Compile Include="Assets\BirdJump.cs" />
      <Compile Include="Assets\BestScore.cs" />
+     <Compile Include="Assets\MakeApple.cs" />
      <Compile Include="Assets\ScoreUp.cs" />
      <Compile Include="Assets\CurrentScore.cs" />
      <Compile Include="Assets\Move.cs" />
