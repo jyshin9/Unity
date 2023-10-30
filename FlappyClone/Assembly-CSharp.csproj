@@ -48,14 +48,14 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Replay.cs" />
-     <Compile Include="Assets\GameStart.cs" />
+     <Compile Include="Assets\Scripts\GameStart.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
-     <Compile Include="Assets\Fixed.cs" />
-     <Compile Include="Assets\BirdJump.cs" />
-     <Compile Include="Assets\BestScore.cs" />
-     <Compile Include="Assets\MakeApple.cs" />
+     <Compile Include="Assets\Scripts\Fixed.cs" />
+     <Compile Include="Assets\Scripts\BirdJump.cs" />
+     <Compile Include="Assets\Scripts\BestScore.cs" />
+     <Compile Include="Assets\Scripts\MakeApple.cs" />
      <Compile Include="Assets\Scripts\ScoreUp.cs" />
-     <Compile Include="Assets\CurrentScore.cs" />
+     <Compile Include="Assets\Scripts\CurrentScore.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
      <Compile Include="Assets\Scripts\MakePipe.cs" />
  <Reference Include="UnityEngine">

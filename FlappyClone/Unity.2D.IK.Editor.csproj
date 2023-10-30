@@ -285,16 +285,16 @@
  <HintPath>/Applications/Unity/Hub/Editor/2020.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Newtonsoft.Json">
- <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="log4netPlastic">
- <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@2.1.0/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@1.9.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@2.1.0/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Plastic.Antlr3.Runtime">
+ <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@2.1.0/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="log4netPlastic">
+ <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.collab-proxy@2.1.0/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>/Users/juyoung/study/Unity/FlappyClone/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>

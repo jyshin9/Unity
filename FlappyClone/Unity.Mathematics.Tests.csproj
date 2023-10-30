@@ -110,9 +110,9 @@
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\TestMath2.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestInt4x4.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestInt2.gen.cs" />
+     <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestBool2x2.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestBool2x3.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestDouble2x3.gen.cs" />
-     <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestBool2x2.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestBool3x3.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestFloat3x4.gen.cs" />
      <Compile Include="Packages\com.unity.mathematics\Tests\Tests\Shared\TestDouble3x3.gen.cs" />
